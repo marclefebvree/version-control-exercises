@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 I added lorem ipsum to the GitHub repository text file. However, let's use English in this file.
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar sollicitudin mauris, eu bibendum ante. 
+Duis lectus dolor, blandit eu facilisis at, tempus sit amet dui. Quisque quis commodo sem. 
+Cras sed fringilla metus, vel egestas metus. Quisque iaculis mattis magna et luctus. 
+Nunc quis lacus ac libero vulputate venenatis. Nulla aliquet ultrices posuere. 
+Curabitur congue lacus eget feugiat ultrices. Sed quam odio, volutpat id libero id, dictum ultricies erat. 
+Curabitur diam magna, hendrerit vitae iaculis convallis, consequat nec lacus. Nulla in arcu vehicula, fringilla turpis ac, cursus ante. 
+Duis tincidunt sagittis accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis elementum ultrices faucibus. 
+Etiam mattis, lorem at ornare pretium, leo arcu consequat libero, et hendrerit leo nibh at sem. Di sanctis spiritum.
+>>>>>>> 02d1a3b9396dd01f6097bf1f13d0ba9d0ed3b168
